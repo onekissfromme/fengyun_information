@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="icons">#FFFFFF</color>
+
+    <!--进度条的颜色-->
+    <color name="primary">#F44336</color>
+    <color name="primary_dark">#D32F2F</color>
+    <color name="primary_light">#FFCDD2</color>
+    <color name="accent">#CDDC39</color>
+
+    <!--标题黑-->
+    <color name="title_black">#222222</color>
+    
+    <!--文本灰-->
+    <color name="content_gray">#CCCCCC</color>
+
+    <color name="secondary_text">#727272</color>
+</resources>
