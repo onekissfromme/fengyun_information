@@ -17,7 +17,7 @@ import butterknife.Bind;
 import butterknife.ButterKnife;
 import me.imid.swipebacklayout.lib.SwipeBackLayout;
 import me.imid.swipebacklayout.lib.app.SwipeBackActivity;
-import org.sufficientlysecure.html
+
 
 
 /**
@@ -46,7 +46,6 @@ public class Act_NewsDetail extends SwipeBackActivity implements INewsDetailView
     @Bind(R.id.act_newsdetail_pbLoadingbar)
     ProgressBar pbLoadingbar;
     @Bind(R.id.act_newsdetail_htNewsContent)
-    org.sufficientlysecure.htmltextview.HtmlTextView htNewsContent;
 
     private SwipeBackLayout mSwipeBackLayout;
     private NewsBean mNewsBean;

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_portrait_white_24dp.png",
+        "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/mipmap-hdpi/ic_portrait_white_24dp.png"
+    },
+    {
+        "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_image_white_24dp.png",
+        "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/mipmap-hdpi/ic_image_white_24dp.png"
+    },
+    {
+        "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_assessment_white_24dp.png",
+        "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/mipmap-hdpi/ic_assessment_white_24dp.png"
+    },
+    {
+        "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/protrait.jpg",
+        "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/mipmap-hdpi/protrait.jpg"
+    },
+    {
+        "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_date_range_white_24dp.png",
+        "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/mipmap-hdpi/ic_date_range_white_24dp.png"
+    }
+]
