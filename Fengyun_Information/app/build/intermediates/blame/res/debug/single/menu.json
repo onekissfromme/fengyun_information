@@ -1,5 +1,13 @@
 [
     {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/menu/navigation_menu.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/menu/navigation_menu.xml"
+    },
+    {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/menu/menu_main.xml"
     },

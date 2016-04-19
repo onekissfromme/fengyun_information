@@ -6,5 +6,13 @@
     {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

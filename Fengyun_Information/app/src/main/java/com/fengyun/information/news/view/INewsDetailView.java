@@ -28,4 +28,5 @@ public interface INewsDetailView {
     /** 显示新闻加载失败提示信息 **/
     public void showLoadingFialMsg(String errorMsg) ;
 
+
 }

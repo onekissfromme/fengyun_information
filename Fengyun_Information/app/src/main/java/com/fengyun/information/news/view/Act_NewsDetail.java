@@ -10,8 +10,12 @@ import android.widget.ProgressBar;
 
 import com.fengyun.information.R;
 import com.fengyun.information.bean.NewsBean;
+import com.fengyun.information.news.presenter.NewsDetailPresenter;
+import com.fengyun.information.news.presenter.NewsDetailPresenterImpl;
 import com.fengyun.information.util.FengKits;
 import com.fengyun.information.util.ImageLoaderUtils;
+
+import org.sufficientlysecure.htmltextview.HtmlTextView;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
@@ -46,9 +50,12 @@ public class Act_NewsDetail extends SwipeBackActivity implements INewsDetailView
     @Bind(R.id.act_newsdetail_pbLoadingbar)
     ProgressBar pbLoadingbar;
     @Bind(R.id.act_newsdetail_htNewsContent)
+    HtmlTextView htmlTextView ;
 
     private SwipeBackLayout mSwipeBackLayout;
     private NewsBean mNewsBean;
+
+    private NewsDetailPresenter mPresenter ;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -83,6 +90,8 @@ public class Act_NewsDetail extends SwipeBackActivity implements INewsDetailView
 
         ImageLoaderUtils.loadingImage(ImageLoaderUtils.NEWSDETAIL_TITLE, mNewsBean.imgsrc, iv_bar);
 
+        mPresenter = new NewsDetailPresenterImpl(this.getApplication(),this) ;
+        mPresenter.newsDetailLoad();
 
     }
 
@@ -105,4 +114,5 @@ public class Act_NewsDetail extends SwipeBackActivity implements INewsDetailView
     public void showLoadingFialMsg(String errorMsg) {
 
     }
+
 }

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/build/intermediates/res/merged/debug/mipmap-xhdpi-v4/ic_launcher.png",
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     }

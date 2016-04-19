@@ -33,7 +33,6 @@ public class NewsModelImpl implements NewsModel {
     }
 
     private void post(Context context , String url, final int type, final OnLoadingNewsListListener onLoadingNewsListListener){
-        Log.i("Test",url) ;
         RequestQueue requestQueue = Volley.newRequestQueue(context);
         StringRequest stringRequest = new StringRequest(Request.Method.GET, url, new Response.Listener<String>() {
             @Override
@@ -114,11 +113,5 @@ public class NewsModelImpl implements NewsModel {
         void onFailed(String msg , Exception e) ;
     }
 
-    /**
-     * 新闻详情的请求状态接口
-     */
-    public interface OnLoadingNewsDaitelListener{
-        void onSuccess(NewsBean newsBean) ;
-        void onFailed(String msg , Exception e) ;
-    }
+
 }

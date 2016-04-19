@@ -4,6 +4,18 @@
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
     },
     {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_out.xml"
     },
@@ -16,6 +28,10 @@
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
     },
     {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
@@ -24,16 +40,40 @@
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
     },
     {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_popup_exit.xml"
+    },
+    {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
         "source": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/xfeng/git/Fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/xuyuqiang/workspace/git/fengyun/information/fengyun_information/Fengyun_Information/swipeback/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
